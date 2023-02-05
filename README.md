@@ -14,7 +14,7 @@ You can visit the deployed [Horiseon site here](https://mdeluca13.github.io/hori
 
 You can click on each menu item (Search Engine Optimization, Online Reputation Management, Social Media Marketing) in the header and it will take you to the related section of the webpage.
 
-![Screenshot of Horiseon Webpage](/assets/images/screenshot.png)
+![Screenshot of Horiseon Webpage](/horiseon-accessibility/assets/images/screenshot.png)
 
 ## Credits
 
